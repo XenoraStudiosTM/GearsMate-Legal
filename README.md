@@ -11,7 +11,7 @@ GearsMate Legal provides the **Terms of Service** and **Privacy Policy** governi
 
 For the GearsMate project, source code, updates, and development information:
 
-**[View GearsMate Repository](YOUR_GEARSMATE_REPOSITORY_URL)**
+**[View GearsMate Repository](https://github.com/XenoraStudiosTM/GearsMate)**
 
 ---
 
