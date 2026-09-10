@@ -5,7 +5,7 @@ GearsMate Legal provides the **Terms of Service** and **Privacy Policy** governi
 ## 📜 Legal Documents
 
 * [Terms of Service](https://github.com/XenoraStudiosTM/GearsMate-Legal/blob/main/Terms%20of%20Service)
-* [Privacy Policy](YOUR_PRIVACY_POLICY_URL)
+* [Privacy Policy](https://github.com/XenoraStudiosTM/GearsMate-Legal/blob/main/Privacy%20Policy)
 
 ## 🔗 GearsMate
 
