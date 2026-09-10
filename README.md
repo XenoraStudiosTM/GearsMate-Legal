@@ -4,7 +4,7 @@ GearsMate Legal provides the **Terms of Service** and **Privacy Policy** governi
 
 ## 📜 Legal Documents
 
-* [Terms of Service](YOUR_TOS_URL)
+* [Terms of Service](Terms of Service)
 * [Privacy Policy](YOUR_PRIVACY_POLICY_URL)
 
 ## 🔗 GearsMate
